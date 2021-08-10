@@ -10,10 +10,14 @@ and can help several geoscientist around the world.
 
 # Collections
 
+![fault_and_hazard_symbols](https://user-images.githubusercontent.com/53950449/128892584-4675ca99-9284-4ba9-9032-209b0af49922.png)
+
+
 All collections you can see in further details at [USGS FGDC post](https://pubs.usgs.gov/tm/2006/11A02/)
 
-|Section 1 | Contacts, Key Beds, and Dikes|
+|Section | SVG Type|
 |----------|-------------------------------|
+|Section 1 | Contacts, Key Beds, and Dikes|
 |Section 2 | Faults|
 |Section 3 | Boundaries Located by Geophysical Surveys|
 |Section 4 | Lineaments and Joints|
